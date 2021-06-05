@@ -11,7 +11,7 @@ public class BootJenkinDockerApplication {
 
 	@GetMapping
 	public String hello() {
-		return "Mastered Pipelning!!!";	
+		return "Trying Pipelning!!!";	
 	}
 	
 	public static void main(String[] args) {
